@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Cardo-Bold.ttf",
+      "sha1": "b29f4ca8d183e351b907b81204fbb5944dffe69a"
+    },
+    {
+      "path": "assets/fonts/Cardo-Italic.ttf",
+      "sha1": "4dd131db86585590c6a3930382042c288a3f0119"
+    },
+    {
+      "path": "assets/fonts/Cardo-Regular.ttf",
+      "sha1": "ac5eb3f9a3b9c1e5aaf8a5c9b871ed89634d289f"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "sha1": "c75d813992dbc9b3cfa07086655855d0ac4c2fee"
+    }
+  ]
+}
